@@ -6,7 +6,7 @@ Proyek ini bertujuan untuk mendeteksi penyakit pada tanaman menggunakan teknolog
 
 - [Deskripsi Proyek](#deskripsi-proyek)
 - [Fitur Utama](#fitur-utama)
-- [Struktur Direktori](#struktur-direktori
+- [Struktur Direktori](#struktur-direktori)
 
 
 ## Deskripsi Proyek
