@@ -6,12 +6,8 @@ Proyek ini bertujuan untuk mendeteksi penyakit pada tanaman menggunakan teknolog
 
 - [Deskripsi Proyek](#deskripsi-proyek)
 - [Fitur Utama](#fitur-utama)
-- [Struktur Direktori](#struktur-direktori)
-- [Instalasi](#instalasi)
-- [Penggunaan](#penggunaan)
-- [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
-- [Kontak](#kontak)
+- [Struktur Direktori](#struktur-direktori
+
 
 ## Deskripsi Proyek
 
@@ -23,7 +19,7 @@ Proyek ini dibangun menggunakan arsitektur **MERN Stack (MongoDB, Express.js, Re
 
 - **Deteksi Penyakit Tanaman:** Unggah gambar tanaman dan dapatkan diagnosis penyakit yang akurat.
 - **Autentikasi dan Otorisasi Pengguna:** Sistem login dan registrasi yang aman menggunakan JWT (JSON Web Token).
-- **CRUD untuk Gambar dan Pengguna:** Pengelolaan data gambar dan pengguna yang terintegrasi dengan baik.
+- **CRUD untuk Gambar dan Pengguna:** Pengelolaan gambar dan pengguna yang terintegrasi dengan baik.
 - **Desain Antarmuka Pengguna yang Responsif:** Antarmuka yang ramah pengguna dan mudah digunakan.
 
 ## Struktur Direktori
